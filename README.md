@@ -1,6 +1,6 @@
 # Stéphane Lepain
 
-I'm the founder of CPLT, a one-person private-AI consultancy. Before that I spent more than fifteen years in IT and cybersecurity, including over five years running my own consultancy. I'm based in Lombez, France, and work mostly remotely.
+I'm the founder of CPLT, a private-AI consultancy. Before that I spent more than fifteen years in IT and cybersecurity, including over five years running my own consultancy. I'm based in Lombez, France, and work mostly remotely.
 
 ## What CPLT does
 
@@ -12,7 +12,7 @@ CPLT builds AI assistants and automation around how a business already works. I 
 
 ## Repositories here
 
-- **[private-ai-stack-checklist](https://github.com/stephanelepain-hub/private-ai-stack-checklist)** — a vendor-neutral checklist for deciding whether an AI setup is actually private: the four layers, the data-path questions per component, ChatGPT Enterprise vs self-hosted vs hybrid, and what to check in a DPA.
-- **[librechat-private-deployment-notes](https://github.com/stephanelepain-hub/librechat-private-deployment-notes)** — public notes on running LibreChat, the open-source AI interface, as a self-hosted private interface layer: decisions to make and pitfalls, sourced to its own documentation.
+- **[private-ai-stack-checklist](https://github.com/stephanelepain-hub/private-ai-stack-checklist)**: a vendor-neutral checklist for deciding whether an AI setup is actually private: the four layers, the data-path questions per component, ChatGPT Enterprise vs self-hosted vs hybrid, and what to check in a DPA.
+- **[librechat-private-deployment-notes](https://github.com/stephanelepain-hub/librechat-private-deployment-notes)**: public notes on running LibreChat, the open-source AI interface, as a self-hosted private interface layer: decisions to make and pitfalls, sourced to its own documentation.
 
 I write dated field notes at [cplt.tech/blog](https://cplt.tech/blog).
